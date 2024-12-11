@@ -1,2 +1,2 @@
 all:
-	cd Contacts2 && qmake Contacts.pro && make && ./Contacts
+	cd Contacts3 && qmake Contacts.pro && make && ./Contacts
